@@ -9,7 +9,7 @@
  * 
  * @since 1.0
  *
- * @package _s
+ * @packageShashwat_Theme
  */
 
 get_header(); ?>
