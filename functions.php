@@ -149,4 +149,12 @@ require get_template_directory() . '/inc/jetpack.php';
 /**
  * Load Slideshow.
  */
-require get_template_directory() . '/inc/item-slideshow.php';
+require get_template_directory() . '/inc/handmedown-slideshow.php';
+
+/**
+ * Item Header.
+ */
+require get_template_directory() . '/inc/handmedown-header.php';
+
+
+
